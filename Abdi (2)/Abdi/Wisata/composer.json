@@ -1,0 +1,15 @@
+{
+    "name": "uts/belajarcomposer",
+    "description": "composer",
+    "autoload": {
+        "psr-4": {
+            "Uts\\Belajarcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kairul Abdi"
+        }
+    ],
+    "require": {}
+}
